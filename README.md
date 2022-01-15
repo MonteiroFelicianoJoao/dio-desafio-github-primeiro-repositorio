@@ -2,5 +2,6 @@
 Desafio de projeto sobre GIT/GITHUB
 
 ## Links úteis
-Sintaxe báica markdow[https://www.markdownguide.org/getting-started/]
+Sintaxe báica markdow
+https://www.markdownguide.org/getting-started/
 
