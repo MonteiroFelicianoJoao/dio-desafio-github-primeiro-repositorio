@@ -1,4 +1,4 @@
-Link para o Dowload do GIT:
+Link para o Download do GIT:
 
 https://git-scm.com/
 
